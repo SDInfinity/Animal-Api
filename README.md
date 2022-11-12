@@ -1,5 +1,5 @@
 # Animal-Api
-Animal-Api using REST Architecture
+Animal-Api using REST Architecture.
 
 
 Have only included the javascript file and not the node modules.
